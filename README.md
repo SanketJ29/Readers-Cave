@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SanketJ29
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently studying software engineering
-- 📫 How to reach me : E-mail - sanketjaiswal2912@gmail.com
+- 📫 How to reach me : 
+-                       E-mail - sanketjaiswal2912@gmail.com
 -                       Phone - 9637877686
 -                       Instagram - sanketjaiswal29
 
